@@ -449,20 +449,22 @@ Aprendí cómo MLFQ reparte el tiempo de la CPU y cómo los procesos pueden subi
 
 ### 5.2. Archivos 
 
-El reporte lo dejamos en la raíz del fork, al igual que la carpeta `evidencias/`donde estan todas las imagenes evidencia  tomadas de nuestra terminal.
+El reporte y la carpeta `evidencias/` **no quedan en la raíz del fork**, sino dentro de la carpeta `entrega/`. En `evidencias/` están todas las imágenes de evidencia tomadas de nuestra terminal.
 
 ```text
 xv6-riscv/
-├── reporte.md
-└── evidencias/
-    ├── 00-ubuntu-y-commit.png
-    ├── 01-versiones.jpg
-    ├── 02-compilacion-procesos.jpg
-    ├── 03-compilacion-final.jpg
-    ├── 04-arranque-xv6.jpg
-    ├── 05-comandos-xv6.jpg
-    ├── 06a-comando-cpu.jpg
-    ├── 06b-cpu-virtual.jpg
-    ├── 07-scheduler-proc.png
-    ├── 08-estados-yield-trap.png
-    └── 09-integracion-makefile.png
+└── entrega/
+    ├── reporte.md
+    └── evidencias/
+        ├── 00-ubuntu-y-commit.png
+        ├── 01-versiones.jpg
+        ├── 02-compilacion-procesos.jpg
+        ├── 03-compilacion-final.jpg
+        ├── 04-arranque-xv6.jpg
+        ├── 05-comandos-xv6.jpg
+        ├── 06a-comando-cpu.jpg
+        ├── 06b-cpu-virtual.jpg
+        ├── 07-scheduler-proc.png
+        ├── 08-estados-yield-trap.jpg
+        └── 09-integracion-makefile.png
+```
