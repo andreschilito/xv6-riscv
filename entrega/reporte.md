@@ -2,7 +2,6 @@
 
 **Asignatura:** Sistemas Operativos  
 **Modalidad:** trabajo en parejas  
-**Fecha indicada por la consigna:** 16 de noviembre de 2026  
 **Integrante 1:** Andrés Mauricio Molina Chilito  
 **Integrante 2:** Jorge Luis Obando Carabalí  
 **Fork:** https://github.com/andreschilito/xv6-riscv  
